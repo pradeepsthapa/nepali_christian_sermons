@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470314933474",
+    "firebase_url": "https://ccbcptc.firebaseio.com",
+    "project_id": "ccbcptc",
+    "storage_bucket": "ccbcptc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470314933474:android:18644837c44fa634b892bb",
+        "android_client_info": {
+          "package_name": "com.ccbc.ccbclibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470314933474-u120hbmds2k5d8nidllo3siad75vl6to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE8o4_TDN4P6DHYcGVF6rAwp7n8XPthLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470314933474-u120hbmds2k5d8nidllo3siad75vl6to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
